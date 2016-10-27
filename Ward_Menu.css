@@ -1,4 +1,4 @@
 body
 {
-    background-image: "meat-market.jpg";
+    background-image: url("meat-market.jpg");
 }
